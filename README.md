@@ -1,7 +1,7 @@
 # logic-test
 This is the logic test required.
 ### Requirements
-...* Install Ruby.
+* Install Ruby.
 
 ### How to run
 Just run ```ruby ./Test.rb```
